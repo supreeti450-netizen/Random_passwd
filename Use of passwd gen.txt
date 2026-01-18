@@ -1,0 +1,15 @@
+Random Password Generator
+
+This project is a command-line password generator developed in Python.
+It generates secure random passwords based on user-defined criteria.
+
+Features:
+- User-defined password length
+- Option to include letters, numbers, and symbols
+- Input validation
+- Secure random generation
+
+How to Run:
+1. Open terminal
+2. Run: python password_generator.py
+3. Follow on-screen instructions
